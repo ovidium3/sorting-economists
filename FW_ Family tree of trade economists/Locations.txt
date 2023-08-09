@@ -1,0 +1,705 @@
+Dummy 1:  Dummy 1 Location ******************************************
+Updated:2022
+#Schools:  Location is a school
+Aachen:  RWTH Aachen University, Aachen, DE
+Aarhus:  University of Aarhus, DK
+Aberdeen:  University of Aberdeen, GB
+ACU:  Australian Catholic University, Sydney, AU
+Adelaide:  University of Adelaide, AU
+Adolfo Ibanez:  Universidad Adolfo Ib&#225;&#241;ez, CL
+Aix-Marseille:  Aix-Marseille Universit&#233;, Provence, FR
+Akron:  University of Akron, OH, US
+Alacant:  Universitat d’Alacant, ES
+Albany:  University at Albany, State University of New York, US
+Alberta:  University of Alberta, Edmonton, AB, CA
+Alphacrucis:  Alphacrucis College, Sydney, AU
+American:  American University, Washington, DC, US
+Amherst:  Amherst College, Amherst, MA, US
+ANDL:  Accademia Nazionale dei Lincei, Rome, IT
+Ankara:  Ankara University, Ankara, TR
+ANU: Australian National University, Canberra, AU
+Aoyama Gakuin:  Aoyama Gakuin University, Tokyo, JP
+Appalachian State:  Appalachian State University, Boone, NC, US
+Arkansas:  University of Arkansas, Fayetteville, AR, US
+Assumption:  Assumption University, Bangkok, TH
+Aston:  Aston University, Birmingham, GB
+Auburn:  Auburn University, Auburn, AL, US
+Auckland:  University of Auckland, Auckland, NZ
+AUEB:  Athens University of Economics and Business, Athens, GR
+AUP:  American University of Paris, FR
+Austin State:  Stephen F. Austin Sate University, Nacogdoches, TX, US
+Bar-Ilan:  Bar-Ilan University, Tel Aviv, IL
+Barcelona:  Universitat Aut&#242;noma de Barcelona, ES
+Bari:  University of Bari  Aldo Moro, Bari, IT
+Baylor:  Baylor University, Waco, TX, US
+Bayreuth:  Universit&#228;t Bayreuth, DE
+Berkeley: University of California at Berkeley, US
+Beijing Normal: Beijing Normal University, Beijing, CN
+Bern:  University of Bern, CH
+Bielefeld:  Bielefeld University, Bielefeld, DE
+Bilkent:  Bilkent University, Ankara, TR
+Birmingham:  University of Birmingham, GB
+Birmingham BS: Birmingham Business School, GB
+Bocconi:  Universit&#224; Bocconi, Milan, IT
+Bogazici:  Bogazici University, Istanbul, TR
+Bologna:  University of Bologna, IT
+Bond:  Bond University, Robina, Gold Coast, Queensland, AU
+Bordeaux IV:  Universit&#233; Montesquieu de Bordeaux IV, Pessac, FR
+Boston Col:  Boston College, Chestnut Hill, MA, US
+Boston Univ:  Boston University, Boston, MA, US
+Brandeis:  Brandeis University, Waltham, MA, US
+Bremen:  Universit&#228;t Bremen, DE
+Brigham Young:  Brigham Young University, Provo, UT, US
+Brock:  Brock University, St. Catharines, ON, CA
+Brown:  Brown University, Providence, RI, US
+Brussels:  Universit&#233; Libre de Bruxelles, Brussels, BE
+BSE:  Barcelona School of Economics, Barcelona, ES
+Bucknell:  Bucknell University, Lewisburg, PA, US
+Buffalo:  University of Buffalo, US
+Caen:  University of Caen, FR
+Cal Poly:  California Polytechnic State University, <br>&nbsp;&nbsp;&nbsp;San Luis Obispo, CA, US
+Cal State, Hayward:  California State University, Hayward, CA, US
+Cal State, Long Beach:  California State University, Long Beach, CA, US
+Cal State, Monterey:  California State University Monterey Bay, CA, US
+Calgary:  University of Calgary, AB, CA
+Cambridge:  University of Cambridge, GB
+Cardiff:  Cardiff University, Cardiff, Wales, GB
+Carleton:  Carleton University, Ottawa, ON, CA
+Carlos III:  Universidad Carlos III de Madrid, ES
+Carnegie Mellon:  Carnegie Mellon University, Pittsburgh, PA, US
+Carthage:  University of Carthage, Tunis, TN
+Catolica de Chile:  Pontificia Universidad Cat&#243;lica de Chile, <br>&nbsp;&nbsp;&nbsp;Santiago, CL
+Catolica de Valparaiso:  Pontificia Universidad Cat&#243;lica de Valpara&#237;so, <br>&nbsp;&nbsp;&nbsp;Valpara&#237;so, CL
+CBS:  Copenhagen Business School, Copenhagen, DK
+CEIBS:  China Europe International Business School, Shanghai, CN
+CEMFI:  Centro de Estudios Monetarios y Financieros, Madrid, ES
+Central European:  Central European University, Budapest, HU
+Central Oklahoma:  University of Central Oklahoma, Edmond, OK, US
+CERGE-EI:  CERGE-EI, Prague, CZ
+Chapman:  Chapman University, Orange, CA, US
+Charles:  Charles University in Prague, CZ
+Chile:  Universidad de Chile, Santiago, CL
+Chicago: University of Chicago, IL, US
+Chu Hai:  Chu Hai College of Higher Education, HK
+Chungnam:  Chungnam National University, Daejeon, KR
+Cincinnati:  University of Cincinnati, OH, US
+City U HK:  City University of Hong Kong, HK
+City, U of London:   City, University of London, London, GB
+Claremont Graduate:  Claremont Graduate University, Claremont, CA, US
+Claremont McKenna:  Claremont McKenna College, Claremont, CA, US
+Clark:  Clark University, Worcester, MA, US
+Clemson:  Clemson University, Clemson, SC, US
+CNAM:  Conservatoire National des Arts et M&#233;tiers, Paris, FR
+Col Sch of Mines:  Colorado School of Mines, Golden, CO, US
+Colby:  Colby College, Waterville, ME, US
+Colgate:  Colgate University, Hamilton, NY, US
+Colorado:  University of Colorado, Boulder, CO, US
+Columbia: Columbia University, New York, NY, US
+Complutense:  Complutense University of Madrid, ES
+Connecticut:  University of Connecticut, Storrs, CT, US
+Constance:  University of Applied Sciences Constance, Konstanz, DE
+Copenhagen:  University of Copenhagen, DK
+Cornell:  Cornell University, Ithaca, NY, US
+CUFE:  Central University of Finance and Economics, Beijing, CN
+CUHK:  Chinese University of Hong Kong, HK
+CUNEF: CUNEF Universidad, Madrid, ES
+CUNY:  City University of New York, NY, US
+Curtin:  Curtin University, Perth, AU
+CY Cergy Paris:  CY Cergy Paris University, Cergy-Pontoise, FR
+Cyprus:  University of Cyprus, Nicosia, CY
+Dalhousie:  Dalhousie University, Halifax, NS, CA
+Dankook:  Dankook University, Yongin and Cheonan, KR
+D'Annunzio:  D'Annunzio University of Chieti Pescara, IT
+Darmstadt:  Darmstadt University of Technology, Darmstadt, DE
+Dartmouth:  Dartmouth College, Hanover, NH, US
+Davidson:  Davidson College, Davidson, NC, US
+De Montfort:  De Montfort University, Leicester, GB
+Deakin:  Deakin University,  Burwood, Melbourne, AU
+Delhi:  University of Delhi, Delhi, IN
+Diego Portales:  Universidad Diego Portales, CL
+Doha Institute:  Doha Institute for Graduate Studies, Doha, QA
+Doshisha: Doshisha University, Kyoto, JP
+Dresden:  Technische Universität Dresden, DE
+Drexel:  Drexel University, Philadelphia, PA, US
+Duisburg-Essen:  University of Duisburg-Essen, Duisburg, DE
+Duke: Duke University, Durham, NC, US
+Dusseldorf:  University of D&#252;sseldorf, DE
+East London:  University of East London, London, GB
+Ecole Polytechnique:  Ecole Polytechnique, Palaiseau, FR
+Edinburgh:  University of Edinburgh, GB
+EERC:  Economics Education and Research Consortium, Kiev, UA
+El Colegio:  El Colegio de M&#233;xico, Mexico City, MX
+Elon:  Elon University, Elon, NC, US
+ENS-Cachan:  Ecole normale sup&#233;rieure de Cachan, Cachan, FR
+Erasmus:  Erasmus University Rotterdam, NL
+Erlangen-Nuremberg: University of Erlangen-Nuremberg, DE
+ESCP:  ESCP Europe, Paris, FR
+ESSEC:  ESSEC Business School, Paris, FR
+ESSEC Asia-Pacific:  ESSEC Asia-Pacific Campus, SG
+Essex:  University of Essex, Colchester, GB
+ETH:  ETH Z&#252;rich, CH
+EUI:  European University Institute, Florence, IT
+Exeter:  University of Exeter, GB
+Federation University:  Federation University Australia, Victoria, AU
+FISPRI:  Fiscal Policy Research Institute Foundation, Bangkok, TH
+Flensburg:  Europa-Universit&#228;t Flensburg, DE
+Flinders:  Flinders University of South Australia, Adelaide, AU
+Florence:  University of Florence, IT
+Florida:  University of Florida, Gainesville, FL, US
+Florida International: Florida International University, Miami, FL, US
+Florida State: Florida State University, Tallahassee, FL, US
+Frankfurt:  University of Frankfurt (Main), DE
+Fordham:  Fordham University, New York, NY, US
+Fu Jen:  Fu Jen Catholic University, New Taipei City, TW
+FUBiS:  Freie Universit&#228;t Berlin, DE
+Fudan:  Fudan University, Shanghai, CN
+Fulbright:  Fulbright University Vietnam, VN
+Gakushuin:  Gakushuin University, Tokyo, JP
+Gdansk U of T:  Gda&#324;sk University of Technology, Gdańsk, PL
+Geneva:  Universit&#233; de Gen&#232;va, CH
+George Mason:  George Mason University, Fairfax, VA, US
+George Washington:  George Washington University, Washington, DC, US
+Georgetown:  Georgetown University, Washington, DC, US
+Georgia State:  Georgia State University, Atlanta, GA, US
+Georgia Tech:  Georgia Institute of Technology, Atlanta, GA, US
+Ghent: Ghent University, BE
+Glasgow:  University of Glasgow, GB
+Goethe:  Goethe University Frankfurt, DE
+G&#246;ttingen:  Georg-August-Universit&#228;t G&#246;ttingen, G&#246;ttingen, DE
+Graduate Institute:  Graduate Institute, Geneva, CH
+Grinnell:  Grinnell College, Grinnell, IA, US
+GRIPS:  National Graduate Institute for Policy Studies, Tokyo, JP
+Groningen:  University of Groningen, NL
+Haifa:  University of Haifa, Haifa, IL
+Hamburg:  Hamburg University, Hamburg, DE
+Hannover:  University of Hannover, DE
+Hanyang:  Hanyang University, Seoul, KR
+Harvard:  Harvard University, Cambridge, MA, US
+Hawaii:  University of Hawai`i, Honolulu, HI, US
+Hebrew:  Hebrew University of Jerusalem, IL
+HEC Paris:  HEC Paris, FR
+HEC Montreal:  HEC Montr&#233;al, CA
+Heilbronn:  University of Heilbronn, DE
+Helmut Schmidt:  Helmut Schmidt University, Hamburg, DE
+Heriot-Watt:  Heriot-Watt University, Edinburgh, GB
+Hitotsubashi:  Hitotsubashi  University, Tokyo, JP
+HK Polytechnic:  Hong Kong Polytechnic University, HK
+HKUST:  Hong Kong University of Science and Technology, HK
+Hohenheim: University of Hohenheim, Stuttgart, DE
+Hokkaido:  Hokkaido University, Hokkaido, JP
+Hong Kong:  University of Hong Kong, HK
+Hong Kong Polytechnic:  Hong Kong Polytechnic University, HK
+Houston: University of Houston, TX, US
+HSE:  National Research University Higher School of Economics, St. Petersburg, RU
+HTWG Konstanz:  HTWG Konstanz - University of Applied Sciences, CH
+HTian, Linull:  Hull University, Hull, GB
+Hyogo: University of Hyogo, Kobe City, JP
+Idaho:  University of Idaho, Moscow, ID, US
+IfW Kiel:  Institut fur Weltwirtschaft, Kiel, DE 
+IHEC Carthage:  Institut des Hautes Etudes Commerciales de Carthage, TN
+IIMB:  Indian Institute of Management Bangalore, IN
+IIMK:  Indian Institute of Management Kozhikode, IN
+Illinois:  University of Illinois, Urbana-Champaign, IL, US
+Imperial:  Imperial College, London, GB
+IMT Lucca:  IMT School for Advanced Studies, Lucca, IT
+Indiana:  Indiana University, Bloomington, IN, US
+Innsbruck:  University of Innsbruck, AT
+INSEAD:  INSEAD Business School, Fontainebleau, FR
+INSEAD Singapore:  INSEAD Singapore, SG
+Iowa: University of Iowa, Iowa City, IA, US
+Iowa State:  Iowa State University, Ames, IA, US
+Istanbul Tech:  Istanbul Technical University, Istanbul, TR
+Jadavpur: Jadavpur University, Kolkata, IN
+Jaume I:  Univerisity Jaume I, Castell&#243;n de la Plana, ES
+James Cook:  James Cook University, AU
+JNU:  Jawaharlal Nehru University, New Delhi, IN
+Johannes Gutenberg:  Johannes Gutenberg University, Mainz, DE
+Johannes Kepler:  Johannes Kepler University, Linz, AT
+Johannesburg:  University of Johannesburg, Johannesburg, ZA
+Johns Hopkins:  Johns Hopkins University, Baltimore, MD, US
+Johns Hopkins, SAIS Europe:  Johns Hopkins University, <br>&nbsp;&nbsp;&nbsp;SAIS Europe, Bologna, IT
+Kansas State:  Kansas State University, Manhattan, KS, US
+Kaohsiung:  National University of Kaohsiung, Kaohsiung, TW
+Kassel:  Universit&#228;t Kassel, DE
+KBTNameU: Kazakh-British Technical University, Almaty, KZ
+KDI School:  KDI School of Public Policy and Management, Seoul, KR
+Keio: Keio University, Tokyo, JP
+Kennesaw State:  Kennesaw State University, Kennesaw, GA, US
+Kent State:  Kent State University, Kent, OH, US
+Kentucky:  University of Kentucky, Lexington, KY, US
+Kepler:  Johannes Kepler Universit&#228;t, Linz, AT
+Kiel:  Christian-Albrechts-University of Kiel, DE
+King’s:  King’s College, London, GB
+Kingston:  Kingston University London, GB
+Kindai:  Kindai Univeristy, Osaka, JP
+Kobe:  Kobe University, Kobe, JP
+Konan:  Konan University, Kobe, JP
+Konkuk:  Konkuk University, Seoul, KR
+Konstanz: University of Konstanz, DE
+KU Eichst&#228;tt-Ingo:  Catholic University Eichst&#228;tt-Ingolstadt, Ingolstadt, DE
+Kwansei Gakuin:  Kwansei Gakuin University, Osaka City, JP
+Kyoto:  Kyoto University, Kyoto, JP
+Kyung Hee: Kyung Hee University, Seoul, KR
+La Plata:  University of La Plata, AR
+La Salle:  La Salle University, Philadelphia, PA, US
+Lancaster:  Lancaster University, Lancaster,  GB
+Lausanne:  University of Lausanne, CH
+Lehigh:  Lehigh University, Bethlehem, PA, US
+Leuven:  KU Leuven, BE
+Lille:  University of Lille, Hauts-de-France, FR
+Lindenwood:  Lindenwood University, Saint Charles, MO, US
+Lingnan:  Lingnan University, HK
+Linz: Johannes Kepler Universität (Linz), AT
+Liverpool:  University of Liverpool, GB
+Ljubljana:  University of Ljubljana, SI
+LMU Munich:  Ludwig-Maximilians-Universit&#228;t Munchen, DE
+Los Andes:  Universidad de Los Andes, Bogotá, CO
+Loughborough:  Loughborough University, Leicestershire, GB
+Louisiana Tech:  Louisiana Tech University, Ruston, LA, US
+Louvain:  Universit&#233; Catholique de Louvain, Louvain-la-Neuve, BE
+Loyola:  Loyola University, Chicago, IL, US
+LSE: London School of Economics, London, GB
+Lugano:  University of Lugano, CH
+Lund:  Lund University, Lund, SE
+Luneburg:  Leuphana Universit&#228;t L&#252;neburg, DE
+Luxembourg:  University of Luxembourg, Walferdange, LU
+Maastricht: Maastricht University, NL
+Macalester:  Macalester College, Saint Paul, MN, US
+Macerata:  Universit&#224; degli Studi di Macerata, Macerata, IT
+Madrid:  Universidad Autonoma de Madrid, ES
+Mainz:  Gutenberg University Mainz, DE
+Manitoba:  University of Manitoba, Winnipeg, MB, CA
+Mannheim:  University of Mannheim, DE
+Mansfield:  Mansfield University of Pennsylvania, Mansfield, PA, US
+Marquette:  Marquette University, Milwaukee, WI, US
+Maryland: University of Maryland, College Park, MDUS
+Massachusetts: University of Massachusetts, Amherst, MA, US
+Massachusetts, Lowell:  University of Massachusetts, Lowell, MA, US
+McGill:  McGill University, Montr&#233;al, QC, CA
+McMaster:  McMaster University, Hamilton, ON, CA
+Melbourne:  University of Melbourne, AU
+Michigan:  University of Michigan, Ann Arbor, MI, US
+Michigan, Flint:   University of Michigan, Flint, USMichigan State: Michigan State University, East Lansing, MI, US
+Middlebury:  Middlebury College, Middlebury, VT, US
+Middlesex:  Middlesex University, Hendon, North London, GB
+Milan:  University of Milan, IT
+Milan Bicocca:  University of Milan Bicocca, Milan, IT
+Minho:  University of Minho, Braga, PT
+Minnesota: University of Minnesota, Minneapolis & St. Paul, MN, US
+Missouri:  University of Missouri, Columbia, MO, US
+MIT:  Massachusetts Institute of Technology, Cambridge, MA, US
+Molise:  Universit&#224; degli Studi del Molise, Campobasso, IT
+Monash:  Monash University, Melbourne, AU
+Montana:  The University of Montana, Missoula, MT, US
+Mount Holyoke:  Mount Holyoke College, South Hadley, MA, US
+MTSU:  Middle Tennessee State University, Murfreesboro, TN, US
+MUN:  Memorial University of Newfoundland, St. John's, NL, CA
+Munich: University of Munich (Ludwig-Maximilians <br>&nbsp;&nbsp;&nbsp;Universit&#228;t M&#252;nchen), DE
+Myongji:  Myongji University, Seoul, KR
+Nagoya:  Nagoya University, Chikusa-ku, JP
+Nanyang:  Nanyang Technological University, SG
+Nanzan:  Nanzan University, Nagoya City, JP
+National Taipei:  National Taipei University, New Taipei City, TW
+National Taiwan:  National Taiwan University, Taipei, TW
+Naval Academy:  United States Naval Academy, Annapolis, MD, US
+Navarra:  Universidad de Navarra, Pamplona, ES
+Nazarbayev:  Nazarbayev University, Nursultan KZ
+NCSU:  North Carolina State University, Raleigh, NC, US
+Nebraska:  University of Nebraska, Lincoln, NE, US
+Nebraska, Omaha:  University of Nebraska, Omaha, US
+NES:  New Economic School, Moscow, RU
+Neuchatel:  Universit&#233; de Neucha&#226;tel, CH
+New Hampshire:  University of New Hampshire, Durham, NH, US
+New Mexico:  University of New Mexico, Albuquerque, NM, US
+New Orleans:  University of New Orleans, New Orleans, LA, US
+New South Wales:  University of New South Wales, Sydney, AU
+NHH:  Norwegian School of Economics, Bergen, NO
+Niigata:  University of Niigata Prefecture, JP
+North Dakota:  University of North Dakota, Grand Forks, ND, US
+Northeastern: Northeastern University, Boston, MA, US
+Northwestern: Northwestern University, Evanston, IL, US
+Notre Dame:  University of Notre Dame, South Bend, IN, US
+Nottingham:  Nottingham University, Nottingham, GB
+Nottingham Ningbo:  University of Nottingham Ningbo China, CN
+Nottingham Trent:  Nottingham Trent University, Nottingham, GB
+Nova:  Nova School of Business and Economics, Lisbon, PT
+Novosibirsk:  Novosibirsk State University, RU
+NRU:  National Research University – Higher School of Economics, Moscow, RU
+NTNU:  Norwegian University <br>&nbsp;&nbsp;&nbsp;of Science and Technology, Trondheim, NO
+NUI Maynooth:  National University of Ireland Maynooth, IE
+NUS:  National University of Singapore, SG
+NYU: New York University, New York, NY, US
+NYU Abu Dhabi: New York University Abu Dhabi, AE
+Oakland:  Oakland University, Rochester, MI, US
+Oklahoma:  University of Oklahoma, Norman, OK, US
+Oklahoma State:  Oklahoma State University, Stillwater, OK, US
+Old Dominion:  Old Dominion University, Norfolk, VA, US
+Oregon:  University of Oregon, Eugene, OR, US
+Oregon State:  Oregon State University, Corvallis, OR, US
+Osaka:  Osaka University, Osaka, JP
+Oslo:  University of Oslo, NO
+Otago:  University of Otago, Dunedin, NZ
+Oxford: Oxford University, Oxford, GB
+Pantheon-Sorbonne:  Pantheon-Sorbonne University, Paris, FR
+Paraiba: Federal University of Paraiba, BR
+Paris-Dauphine:  Universit&#233; Paris-Dauphine,, Paris, FR
+Paris Est:  Universit&#233; Paris Est, Paris, FR
+Paris-Saclay: Universit&#233; Paris-Saclay, Paris, FR
+Paris Sud:  Universit&#233; Paris Sud, Paris, FR
+Parthenope: Parthenope University of Naples, IT
+Passau:  University of Passau, DE
+Pavia:  University of Pavia, ITPeking:  Peking University, Beijing, CN
+Penn State: Pennsylvania State University, University Park, PA, US
+Pennsylvania:  University of Pennsylvania, Philadelphia, PA, US
+Perugia:  Universit&#224; degli Studi di Perugia, IT
+Pittsburgh:  University of Pittsburgh, PA, US
+Politecnica delle Marche:  Universit&#224; Politecnica delle Marche, <br>&nbsp;&nbsp;&nbsp;Ancona, IT
+Politecnico di Milano:  Politecnico di Milano, IT
+Politecnico di Torino:  Politecnico di Torino, IT
+Pompeu Fabra: Universitat Pompeu Fabra, Barcelona, ES
+Pontificia: Pontificia Universidad Cat&#243;lica del Per&#250; CL
+Portland State:  Portland State University, Portland, OR, US
+Princeton: Princeton University, Princeton, NJ, US
+PSE:  Paris School of Economics, Paris, FR
+PUCP:  Pontificia Universidad Cat&#243;lica del Per&#250;, PE
+Purdue:  Purdue University, West Lafayette, IN, US
+Quebec a Montreal:  Universit&#233; du Qu&#233;bec &#224; Montr&#233;al, QC, CA
+Queen Mary:  Queen Mary University of London, London, GB
+Queen’s:  Queen’s University, Kingston, ON, CA
+Queen’s Belfast:   Queen’s University Belfast, Northern Ireland, GB
+Queens U Charlotte:  Queens University of Charlotte, NC, US
+Queensland:  University of Queensland, Brisbane, AU
+QUT:  Queensland University of Technology, Brisbane, AU
+Radboud:  Radboud University Nijmegen, NL
+Radford:  Radford University, VA, US
+Reading:  University of Reading, GB
+Redlands:  University of Redlands, CA, US
+Renmin:  Renmin University of China, Beijing, CN
+Richmond:  University of Richmond, Richmond, VA, US
+Ritsumeikan:  Ritsumeikan University, Kyoto, JP
+Rochester:  University of Rochester, NY, US
+Roma Tre: Università degli Studi Roma Tre, Rome, IT
+Rovira i Virgili:  Universitat Rovira i Virgili, Catalonia, Tarragona, ES
+Rowan:  Rowan University, Glassboro, NJ, US
+Royal Melbourne Tech:  Royal Melbourne Institute of Technology, <br>&nbsp;&nbsp;&nbsp;Melbourne, AU
+Ruhr-Bochum:  Ruhr-University Bochum, DE
+Rutgers: Rutgers University, New Brunswick, NJ, US
+Ryerson:  Ryerson University, Toronto, ON, CA
+SAIS:  Johns Hopkins School of Advanced International Studies, <br>&nbsp;&nbsp;&nbsp;Washington, DC, US
+Salento: University of Salento, Lecce, IT
+Salerno:  University of Salerno, IT
+San Andres:  Universidad de San Andr&#233;s, Buenos Aires, AR
+San Diego State:  San Diego State University, San Diego, CA, US
+Santa Clara:  Santa Clara University, Santa Clara, CA, US
+Sao Paulo School:  Sao Paulo  School  of Economics, Sao Paulo, BR
+Sapienza:  University of Rome Sapienza, Rome, IT
+Saskatchewan:  University of Saskatchewan, Saskatoon, SK, CA
+Sciences Po:  Sciences Po, Paris, FR
+Scranton:  University of Scranton, PA, US
+Senshu:  Senshu University, Tokyo, JP
+Seton Hall:  Seton Hall University, South Orange, NJ, US
+Shandong:  Shandong University, Jinan, CN
+Shanghai Jiao Tong:  Shanghai Jiao Tong University, Shanghai, CN
+Shanghai UFE:  Shanghai University of Finance and Economics, <br>&nbsp;&nbsp;&nbsp;Shanghai, CN
+Sheffield:  University of Sheffield, GB
+Sherbrooke:  Université de Sherbrooke, Sherbrooke, QC, CA
+Silla:  Silla University, Busan, KR
+Simon Fraser:  Simon Fraser University, Burnaby, BC, CA
+Singapore Management:  Singapore Management University, SG
+SKEMA:  SKEMA Business School, Euralille, FR
+SLU:  Swedish University of Agricultural Sciences, Uppsala, SE
+SMU:  Southern Methodist University, Dallas, TX, US
+SNU:  Seoul National University, Seoul, KR
+Sogang:  Sogang University, Seoul, KR
+Solvay:  Solvay Brussels School of Economics and Management, <br>&nbsp;&nbsp;&nbsp;Brussels, BE
+Sophia:  Sophia University, Tokyo, JP
+South Australia:  University of South Australia, Adelaide, AU
+South Florida:  University of South Florida, Tampa, FL, US
+Southampton:  University of Southampton, GB
+Southern Denmark:  University of Southern Denmark, DK
+Southern Illinois:  Southern Illinois University, Carbondale, IL, US
+St. Gallen:  University of St. Gallen, CH
+St. Joseph’s:  St. Joseph’s  University, Philadelphia, PA, US
+St. Louis:  St. Louis University, MO, US
+St. Mary’s:  St. Mary’s College of California, Moraga, CA, US
+Stanford: Stanford University, Stanford, CA, US
+Stavanger: University of Stavanger, NO
+Stetson:  Stetson University, DeLand, FL, US
+Stockholm: Stockholm University, Stockholm, SE
+Stockholm School: Stockholm School of Economics, Stockholm, SE
+Strathclyde:  University of Strathclyde, Glasgow, GB
+SUFE:  Shanghai University of Finance and Economics, Shanghai, CN
+Sungkyunkwan:  Sungkyunkwan University, Seoul, KR
+SUNY Albany:  State University of New York, Albany, NY, US
+Surrey:  University of Surrey, Guildford, GB
+Sussex:  University of Sussex, Brighton, GB
+Sydney: University of Sydney, AU
+Syracuse: University of Syracuse, NY, US
+Talca:  Universidad de Talca, CL
+Tbilisi:   Tbilisi State University, Tbilisi, GE
+TED:  TED University, Ankara, TR
+Tamkang:  Tamkang University, Taipei, TW
+Tel Aviv:  Tel Aviv University, Tel Aviv, IL
+Temple:  Temple University, Philadelphia, PA, US
+Tennessee:  University of  Tennessee, Knoxville, TN, US
+Texas:  University of  Texas, Austin, TX, US
+Texas A&M:  Texas A&M University, College Station, TX, US
+Texas, Arlington:  University of Texas, Arlington, TX, US
+Texas Christian:  Texas Christian University, Fort Worth, TX, US
+Texas, San Antonio:  University of Texas, San Antonio, TX, US
+Texas Tech:  Texas Tech University, Lubbock, TX, US
+Tilburg:  Tilburg University, Tilburg, NL
+TOBB:  TOBB University of Economics and Technology, Ankara, TR
+Tohoku:  Tohoku University, Sendai, JP
+Tokyo:  University of Tokyo, JP
+Toronto: University of Toronto, ON, CA
+Toronto Metropolitan:  Toronto Metropolitan University, ON, CA
+Toulouse:  Toulouse School of Economics, Toulouse, FR
+Tours:  University Fran&#231;ois Rabelais  de Tours, FR
+Trento:  University of Trento, IT
+Trier:  Universit&#228;t Trier, DE
+Trinity College: Trinity College Dublin, IE
+Tsing Hua:  National Tsing Hua University, Hsinchu City, TW
+Tsinghua:  Tsinghua University, Beijing, CN
+Tsukuba: University of Tsukuba, Ibaraki, JP
+TU Dresden:  Dresden University of Technology, Dresden, DE
+Tubingen:  University of T&#252;bingen, DE
+Tufts:  Tufts University, Medford, MA, US
+Tulane:  Tulane University, New Orleans, LA, US
+Tunis:  University of Tunis, TN
+Turkish-German Univ:  Turkish-German University, Istanbul, TR
+UBC:  University of British Columbia, Vancouver, BC, CA
+UC Davis:  University of California, Davis, CA, US
+UC Dublin:  University College Dublin, IE
+UC Irvine: University of California, Irvine, CA, US
+UC Merced:  University of California, Merced, CA, US
+UCL:  University College London, GB
+UCLA:  University of California, Los Angeles, CA, US
+UCSC: University of California, Santa Cruz, CA, US
+UCSD: University of California, San Diego, CA, US
+UEA:  University of East Anglia, Norwich, GB
+UESTC:  University of Electronic Science and Technology of China, Chengdu, CN
+U Indonesia:  University of Indonesia, Jakarta, ID
+UIBE:  University of International Business and Economics, Beijing, CN
+ULB:  Université Libre de Bruxelles, Brussels, BE
+UMBC:  University of Maryland, Baltimore County, Baltimore, MD, US
+UNC:  University of North Carolina, Chapel Hill, NC, US
+UNU-MERIT:  United Nations University, Merit, Maastricht University, NL
+Union:  Union College, Schenectady, NY, US
+Universidad de la Rep&#243;blica:  Universidad de la Rep&#243;blica, Montevideo, UY
+UNSW:  University of New South Wales, Sydney, AU
+UNU:  United Nations University, Tokyo, JP
+Uppsala:  Uppsala University, Uppsala, SE
+USC:  University of Southern California, Los Angeles, CA, US
+USC Australia:  University of the Sunshine Coast, Queensland, AU
+USI:  Universit&#224; della Svizzera italiana, Lugano, IT
+USTC:  University of Science and Technology of China, Anhui, CN
+Utah State: Utah State University, Logan, UT, US
+Utrecht:  Utrecht University, Utrecht, NL
+Valencia:  Universidad de Valencia, ES
+Vanderbilt:  Vanderbilt University, Nashville, TN, US
+Verona:  University of Verona, Verona, IT
+Viadrina: Europa Universit&#228;t Viadrina, Frankfurt(Oder), DE
+Victoria:  University of Victoria, BC, CA
+Victoria Melbourne:  Victoria University, Melbourne, AU
+Villanova:  Villanova University, Villanova, PA, US
+Virginia:  University of Virginia, Charlottesville, VA, US
+Virginia Commonwealth:  Virginia Commonwealth University, <br>&nbsp;&nbsp;&nbsp;Richmond, VA, US
+Virginia Tech: Virginia Polytechnic Institute and State University, Blacksburg, VA, US
+Visva-Bharati:  Visva-Bharati University, Santiniketan, <br>&nbsp;&nbsp;&nbsp;West Bengal, IN
+Vlerick:  Vlerick Business School, Ghent, BE
+Waikato:  University of Waikato, Hamilton, NZ
+Wake Forest:  Wake Forest University, NC, US
+Warwick:  University of Warwick, Coventry, GB
+Waseda:  Waseda University, Tokyo, JP
+Washington: University of Washington, Seattle, WA, US
+Washington and Lee: Washington and Lee University, Lexington, VA, US
+Washington State: Washington State University, Pullman, WA, US
+Waterloo:  University of Waterloo​, Waterloo, ON, CA
+Weber State:  Weber State University, Ogden, UT, US
+Wellesley:  Wellesley College, Wellesley, MA, US
+Wesleyan: Wesleyan University, Middletown, CT, US
+West Virginia:  West Virginia University, Morgantown, WV, US
+Western:  Western University (of Western Ontario), London, ON, CA
+Western Australia:  University of Western Australia, Crawley, AU
+Western Michigan:  Western Michigan University, Kalamazoo, MI, US
+Western Washington:  Western Washington University, Bellingham, WA, US
+Wien:  Universit&#228;t Wien, Vienna, AT
+Wilfrid Laurier:  Wilfrid Laurier University, Waterloo, ON, CA
+Willamette:  Willamette University, Salem, OR, US
+William & Mary:  College of William & Mary, Williamsburg, VA, US
+Williams:  Williams College, Williamstown, MA, US
+Wisconsin: University of Wisconsin, Madison, WI, US
+Wisconsin, Milwaukee:  University of Wisconsin, Milwaukee, WI, US
+Wisconsin, Whitewater:  University of Wisconsin, Whitewater, WI, US
+W&#252;rzburg:  Universit&#228;t W&#252;rzburg, DE
+Wyoming:  University of Wyoming, Laramie, WY, US
+Xavier:  Xavier University, Cincinnati, OH, US
+XJTLU:  Xi'an Jiaotong - Liverpool University, Suzhou, CN
+Yale: Yale University, New Haven, CT, US
+Yokohama:  Yokohama University, Yokohama, JP
+Yonsei:  Yonsei University, Seoul, KR
+York:  York University, Toronto, ON, CA
+Zhejiang:  Zhejiang University, Hangzhou, CN
+Zhongnan: Zhongnan University of Economics and Law, Wuhan, CN
+Zurich:  University of Zurich, CH
+Dummy 2:  Dummy 2 location ******************************************
+#Non-Schools:  Location is not a school
+ADB:  Asian Development Bank, Manila, PH
+AEI:  American Enterprise Institute, Washington, DC, US
+AFD:  Agence Française de Développement, Paris, FR
+Agroscope:  Agroscope, CH
+Banca d’Italia:  Banca d’Italia, Rome, IT
+Banco Central de Chile:  Banco Central de Chile, Santiago, CL
+Banco Central del Peru:  Banco Central de Reserva del Per%#250;, Lima, PE
+Banco de Mexico:  Banco de M&#233;xico, Mexico City, MX
+Banco de Portugal:  Banco de Portugal, Lisbon, PT
+Bank of Canada:  Bank of Canada, Ottawa, ON, CA
+Bank of England:  Bank of England, London, GB
+Bank of Israel:  Bank of Israel, Jerusalem, IL
+Bank of Russia:  Bank of Russia, Moscow, RU
+Banque du Luxembourg: Banque centrale du Luxembourg, LU
+Banque de France:  Banque de France, Paris, FR
+BBVA:  BBVA Research, Madrid, ES
+BEA:  Bureau of Economic Analysis, US Dept. of Commerce, <br>&nbsp;&nbsp;&nbsp;Washington, DC, US
+Bolliger:  Bolliger & Company, TH
+Brookings:  Brookings  Institution, Washington, DC, US
+Brookings India:  Brookings Institution India Center, New Delhi, IN
+Bundesbank:  Deutsche Bundesbank, DE
+Cal Dept Fin:  California Department of Finance, Sacramento, CA, US
+Cato:  Cato Institute, Washington, DC, US
+CBO:  Congressional Budget Office, DC, US
+CEFIR:  Centre for Economic and Financial Research, Moscow, RU
+CELEC:  Center for European Law and Economics, Brussels, BE
+CEPII:  Centre d'Etudes Prospectives et d'Informations Internationales, Paris, FR
+CERS-HAS:  Research Center for Economic and Regional Studies, <br>&nbsp;&nbsp;&nbsp;Hungarian Academy of Sciences, Budapest, HU
+CESifo:  Center for Economics Studies, Ifo Institute, Munich, DE
+CFR:  Council on Foreign Relations
+CGDev:  Center for Global Development, Washington, DC, US
+Charles River:  Charles River Associates, Boston, MA, US
+Chicago Council:  Chicago Council on Global Affairs, IL, US
+Commonfund:  Commonfund, Wilton, CT, US
+Cornerstone CA:  Cornerstone  Research, Menlo Park, CA, US
+Cornerstone NY:  Cornerstone  Research, New York, NY, US
+CPB:  CPB Netherlands Bureau for Economic Policy Analysis, <br>&nbsp;&nbsp;&nbsp;The Hague, NL
+CREi:  Centre de Recerca en Economia Internacional, Barcelona, ES
+CREST:  Centre de Recherche en &#201:conomie et Statistique, Paris, FR
+CSSSC:  Centre for Studies in Social Sciences, Calcutta, IN
+DIT UK:  Department of International Trade, London, GB
+Delhi:  Delhi, IN
+Deloitte Tax:  Deloitte Tax, LLP., Atlanta, GA, US
+Djaghe:  Djaghe, LLC, Washington, DC, US
+Dun & Bradstreet:  Dun & Bradstreet, London, GB
+Duquesne Cap Mgmt:  Duquesne Capital Management, <br>&nbsp;&nbsp;&nbsp;New York, NY, US
+EBRD:  European Bank for Reconstruction and Development, London, GB
+ECB:  European Central Bank, Frankfurt, DE
+Edgeworth: Edgeworth Economics, LLC. Washington, DC, US
+Environment Canada:  Environment Canada, Gatineau, QC, CA
+EPPA:  EPPA SA, Brussels, BE
+ERIA:  Economic Research Institute for ASEAN and East Asia, ID
+ERS:  Economic Research Service, Washington, DC, US
+ESCAP:  United Nations Economic and Social Commission <br>&nbsp;&nbsp;&nbsp;for Asia and the Pacific, Bangkok, TH
+ESRB:  European Systemic Risk Board, Frankfurt, DE
+ESRI:  Economic and Social Research Institute, Dublin, IE
+European Commission:  European Commission, Brussels, BE
+Exxon:  Exxon Mobile Corporation, Irving, TX, US
+Farm Credit Canada:  Farm Credit Canada, Essex, ON, CA
+Fed Board:  Federal Reserve Board of Governors, <br>&nbsp;&nbsp;&nbsp;Washington, DC, US
+Fed Boston:  Federal Reserve Bank of Boston, MA, US
+Fed Chicago:  Federal Reserve Bank of Chicago, IL, US
+Fed Cleveland:  Federal Reserve Bank of Cleveland, OH, US
+Fed Dallas:  Federal Reserve Bank of Dallas, TX, US
+Fed Minneapolis:  Federal Reserve Bank of Minneapolis, MN, US
+Fed NY:  Federal Reserve Bank of New York, NY, US
+Fed Philadelphia:  Federal Reserve Bank of Philadelphia, PA, US
+Fed St. Louis:  Federal Reserve Bank of St. Louis, MO, US
+Flexport:  Flexport, US
+FPB: Belgian Federal Planning Bureau, Brussels, BE 
+FPRI:  Fiscal Policy Research Institute Foundation, Bangkok, TH
+FTC:  Federal Trade Commission, Washington, DC, US
+Global Affairs Canada:  Global Affairs Canada, Ottawa, CA
+Hawaii Tax Dept:  Hawaii Department of Taxation, Honolulu, HI, US
+HKMA:  Hong Kong Monetary Authority, HK
+IADB:  Inter-American Development Bank, Washington, DC, US
+IAS:  Institute for Advanced Study, Princeton, NJ, US
+ICRIER:  Indian Council for Research on International Economic Relations, New Delhi, IN 
+IERPC:  Institute for Economic Research and Policy Consulting, Kyiv, UA
+IFN:  Research Institute of Industrial Economics, Stockholm, SE
+IFPRI:  International Food Policy Research Institute, <br>&nbsp;&nbsp;&nbsp;Washington, DC, US
+IFS:  Institute for Fiscal Studies, London, GB
+ILO:  International Labour Organization, Geneva, CH
+IMF:  International Monetary Fund, Washington, DC, US
+ImpactECON:  ImpactECON, Boulder, CO, US
+INRAE:  Institut National de la Recherche Agronomique, Rennes, FR
+Investcorp:  Investcorp Bank B.S.C., NY, US
+IP Australia:  IP Australia, Canberra, AU
+ISID:  Indian Statistical Institute, Kolkata, IN
+IWEP:  The Institute of World Economics and Politics, Chinese Academy of Social Sciences, Beijing, CN
+James Martin:  James G. Martin Center for Academic Renewal, Raleigh, NC, US
+Jesuit Curia:  Jesuit Curia in Rome, IT
+Kiel Institute:  Kiel Institute for the World Economy, Kiel, DE
+KIEP:  Korea Institute for International Economic Policy, Seoul, KR
+KIET:  Korea Institute for Industrial Economics and Trade, Seoul, KR
+KITA:  Korea International Trade Association, Seoul, KR
+KPMG Australia:  KPMG Australia, Canberra, AU
+LICOS:  LICOS Centre for Institutions and Economic Performance, Leuven, BE
+Lyft:  Lyft, San Francisco, CA, US
+MacroDyn:  MacroDyn Group, DC, US
+Marin Consulting:  Marin Economic Consulting, <br>&nbsp;&nbsp;&nbsp;Marin Country, CA, US
+Mary Kay:  Mary Kay Cosmetics, Dallas/Fort Worth, TX, US
+Max Planck Innov & Comp:  Max Planck Institute <br>&nbsp;&nbsp;&nbsp;for Innovation and Competition, M&#252;nchen, DE
+Max Planck Tax & PF:  Max Planck Institute <br>&nbsp;&nbsp;&nbsp;for Tax Law and Public Finance, M&#252;nchen, DE
+Millstein:  Millstein & Co., Washington, DC, US
+Mitsubishi UFJ:  Mitsubishi UFJ Research and Consulting Co., Ltd., Tokyo, JP
+Motu:  Motu Economic and Public Policy Research, Wellington, NZ
+Multigrid:  Multigrid Data Centers, Stockholm, SE
+NCAER:  National Council of Applied Economic Research, <br>&nbsp;&nbsp;&nbsp;New Delhi, IN
+Nielsen:  The Nielsen Company, Beijing, CN
+NIER:  National Institute for Economic Research, Stockholm, SE
+NPC Nepal:  National Planning Commission of Nepal, NP
+OECD:  Organization for Economic Cooperation and Development, <br>&nbsp;&nbsp;&nbsp;Paris, FR
+OENB:  Oesterreischiche Nationalbank, Vienna, AT
+Oslo:  Oslo, NO
+Oxford Economics (HK):  Oxford Economics (Hong Kong), HK
+Peterson Institute:  Peterson Institute for International Economics, <br>&nbsp;&nbsp;&nbsp;Washington, DC, US
+Rand:  Rand Corporation, Santa Monica, CA US
+RIETI:  Research Institute of Economy, Trade, and Industry, Tokyo, JP
+RIIE:  Research Institute of Industrial Economics, Stockholm, SE
+Rokos:  Rokos Capital Management, London, GB
+Sant&#233;suisse:  Sant&#233;suisse, Solothurn, CH
+Seattle:  Seattle, WA, US
+Sidley:  Sidley Austin LLP, Washington DC, US
+Singapore RTI:  IMF - Singapore Regional Training Institute, SG
+SOFI:  Swedish Institute for Social Research, Stockholm, SE
+South Asia Watch:  South Asia Watch on Trade. Kathmandu, Nepal. NP
+Statistics Canada:  Statistics Canada, Ottawa, ON, CA
+Swiss National Bank:  Swiss National Bank, Z&#252;rich, CH
+TCMB:  T&#252;rkiye Cumhuriyet Merkez Bankası <br>&nbsp;&nbsp;&nbsp;(Central Bank of the Republic of Turkey), Ankara, TR
+Th&#252;nen Institute:  Th&#252;nen Institute of Market Analysis, Braunschweig, DE
+UBS, Hong Kong:  UBS, HK
+UN-ECE:  Economic Commission for Europe, Geneva, CH
+UNCTAD:  United Nation Conference for Trade and Development, <br>&nbsp;&nbsp;&nbsp;Geneva, CH
+US Census:  US Census Bureau, DC, US
+US State Dept.:  US Department of State, Washington, DC, US
+US Treasury Dept.:  US Department of Treasury, Washington, DC, US
+USDA:  United States Department of Agriculture, <br>&nbsp;&nbsp;&nbsp;Washington, DC, US
+USITC:  United States International Trade Commission, <br>&nbsp;&nbsp;&nbsp;Washington, DC, US
+VORSIM:  VORSIM Model Building Software, Arlington, VA, US
+WB, Angola:  World Bank, Angola, AO
+WB, Kuala Lumpur:  World Bank, Kuala Lumpur, MY
+WIFO:  Austrian Institute of Economic Research, Vienna, AT
+WIIW:  Vienna Institute for International Economics, Vienna, AT
+Wisconsin Foundation:  University of Wisconsin Foundation, <br>&nbsp;&nbsp;&nbsp;Madison, WI, US
+World Bank:  The World Bank, Washington, DC, US
+WTO:  World Trade Organization, Geneva, CH
+Yelp:  Yelp, Inc., San Francisco, CA, US
+Dummy 3:  Dummy 3 location ******************************************
+Other:  Other locations
+#Consulting:  Consulting
+Consulting:  Consulting
+Consulting, AF:  Consulting, Afghanistan, AF
+Consulting, WB:  Consulting to World Bank, US
+#Deceased:  Deceased
+Deceased:  Deceased
+#Unknown:  Unknown location
+Unknown:  Unknown location
