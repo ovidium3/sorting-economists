@@ -1,7 +1,7 @@
 import os
 import openai
 
-openai.api_key = "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"
+openai.api_key = "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"    # disabled api key, needs to be changed
 prompt = "Hello"
 completion = openai.ChatCompletion.create(
     model = "gpt-3.5-turbo",
